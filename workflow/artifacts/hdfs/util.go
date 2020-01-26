@@ -3,7 +3,7 @@ package hdfs
 import (
 	"fmt"
 
-	"github.com/colinmarc/hdfs"
+	hdfs "github.com/colinmarc/hdfs/v2"
 	krb "gopkg.in/jcmturner/gokrb5.v5/client"
 	"gopkg.in/jcmturner/gokrb5.v5/config"
 )
